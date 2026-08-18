@@ -53,7 +53,7 @@ Upload → Storage → Profiling → Validation → DuckDB Analytics → Dashboa
 ### 🛒 [Luxora](https://github.com/muhammedShafiKT) — Full Stack E-Commerce Platform
 Complete e-commerce app with shopping, payments, and an admin dashboard.
 
-`React` · `Redux Toolkit` · `Node.js` · `Express` · `MongoDB` · `Razorpay` · `Cloudinary`
+`React` · `Context API` · `Node.js` · `Express` · `MongoDB` · `Razorpay` · `Cloudinary`
 
 **Highlights:** cart, wishlist & coupon system · Razorpay payment integration · JWT + Google OAuth auth with role-based access · Cloudinary image management · admin dashboard with order/product management
 
